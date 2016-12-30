@@ -1,0 +1,567 @@
+# depslib dependency file v1.0
+1451302251 source:c:\users\lenovo\desktop\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451247463 c:\users\lenovo\desktop\project\course.h
+	<bits/stdc++.h>
+
+1451247463 c:\users\lenovo\desktop\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451297519 c:\users\lenovo\desktop\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451302276 c:\users\lenovo\desktop\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451247463 source:c:\users\lenovo\desktop\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+
+1451247463 c:\users\lenovo\desktop\project\doctor.h
+	<bits/stdc++.h>
+	"Teacher.h"
+
+1451247463 c:\users\lenovo\desktop\project\teacher.h
+	<bits/stdc++.h>
+
+1451303198 source:c:\users\lenovo\desktop\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451247463 c:\users\lenovo\desktop\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451297519 source:c:\users\lenovo\desktop\project\person.cpp
+	"Person.h"
+
+1451302229 source:c:\users\lenovo\desktop\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451299325 source:c:\users\lenovo\desktop\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451297490 source:c:\users\lenovo\desktop\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+
+1451583972 source:h:\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451579902 h:\project\course.h
+	<bits/stdc++.h>
+
+1451583845 h:\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451320508 h:\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451560200 h:\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451582156 source:h:\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+
+1451564890 h:\project\doctor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Teacher.h"
+
+1451576952 source:h:\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"Teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451499052 h:\project\teacher.h
+	<bits/stdc++.h>
+	"System.h"
+
+1451563834 h:\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451576954 source:h:\project\person.cpp
+	"Person.h"
+
+1451583845 source:h:\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451579668 source:h:\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451576492 source:h:\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+	"Student.h"
+
+1451579902 source:c:\users\mohamed-ragab\downloads\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451579902 c:\users\mohamed-ragab\downloads\project\course.h
+	<bits/stdc++.h>
+
+1451579793 c:\users\mohamed-ragab\downloads\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451320508 c:\users\mohamed-ragab\downloads\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451560200 c:\users\mohamed-ragab\downloads\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451582156 source:c:\users\mohamed-ragab\downloads\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+
+1451564890 c:\users\mohamed-ragab\downloads\project\doctor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Teacher.h"
+
+1451499052 c:\users\mohamed-ragab\downloads\project\teacher.h
+	<bits/stdc++.h>
+	"System.h"
+
+1451576952 source:c:\users\mohamed-ragab\downloads\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"Teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451563834 c:\users\mohamed-ragab\downloads\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451576954 source:c:\users\mohamed-ragab\downloads\project\person.cpp
+	"Person.h"
+
+1451579793 source:c:\users\mohamed-ragab\downloads\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451579668 source:c:\users\mohamed-ragab\downloads\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451576492 source:c:\users\mohamed-ragab\downloads\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+	"Student.h"
+
+1451579725 source:c:\users\mohamed-ragab\downloads\project\summer.cpp
+	"Summer.h"
+	<bits/stdc++.h>
+
+1451578710 c:\users\mohamed-ragab\downloads\project\summer.h
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+	"TA.h"
+	<bits/stdc++.h>
+
+1451579725 source:h:\project\summer.cpp
+	"Summer.h"
+	<bits/stdc++.h>
+
+1451578710 h:\project\summer.h
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+	"TA.h"
+	<bits/stdc++.h>
+
+1451583972 source:c:\users\mezomessi\desktop\new folder (7)\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451579902 c:\users\mezomessi\desktop\new folder (7)\project\course.h
+	<bits/stdc++.h>
+
+1451583845 c:\users\mezomessi\desktop\new folder (7)\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451320508 c:\users\mezomessi\desktop\new folder (7)\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451560200 c:\users\mezomessi\desktop\new folder (7)\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451582156 source:c:\users\mezomessi\desktop\new folder (7)\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+
+1451564890 c:\users\mezomessi\desktop\new folder (7)\project\doctor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Teacher.h"
+
+1451499052 c:\users\mezomessi\desktop\new folder (7)\project\teacher.h
+	<bits/stdc++.h>
+	"System.h"
+
+1451606683 source:c:\users\mezomessi\desktop\new folder (7)\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"Teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451563834 c:\users\mezomessi\desktop\new folder (7)\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451576954 source:c:\users\mezomessi\desktop\new folder (7)\project\person.cpp
+	"Person.h"
+
+1451583845 source:c:\users\mezomessi\desktop\new folder (7)\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451584201 source:c:\users\mezomessi\desktop\new folder (7)\project\summer.cpp
+	"Summer.h"
+	<bits/stdc++.h>
+
+1451578710 c:\users\mezomessi\desktop\new folder (7)\project\summer.h
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+	"TA.h"
+	<bits/stdc++.h>
+
+1451584201 source:c:\users\mezomessi\desktop\new folder (7)\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451600197 source:c:\users\mezomessi\desktop\new folder (7)\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+	"Student.h"
+
+1451583972 source:c:\users\ghostt\desktop\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451579902 c:\users\ghostt\desktop\project\course.h
+	<bits/stdc++.h>
+
+1451583845 c:\users\ghostt\desktop\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451320508 c:\users\ghostt\desktop\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451666479 c:\users\ghostt\desktop\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451582156 source:c:\users\ghostt\desktop\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+
+1451564890 c:\users\ghostt\desktop\project\doctor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Teacher.h"
+
+1451499052 c:\users\ghostt\desktop\project\teacher.h
+	<bits/stdc++.h>
+	"System.h"
+
+1451576954 source:c:\users\ghostt\desktop\project\person.cpp
+	"Person.h"
+
+1451583845 source:c:\users\ghostt\desktop\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451584201 source:c:\users\ghostt\desktop\project\summer.cpp
+	"Summer.h"
+	<bits/stdc++.h>
+
+1451578710 c:\users\ghostt\desktop\project\summer.h
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+	"TA.h"
+	<bits/stdc++.h>
+
+1451563834 c:\users\ghostt\desktop\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451600197 source:c:\users\ghostt\desktop\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+	"Student.h"
+
+1451669492 source:c:\users\ghostt\desktop\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"Teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451669788 source:c:\users\ghostt\desktop\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451619972 source:c:\users\muhammed maged\downloads\new folder\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451615902 c:\users\muhammed maged\downloads\new folder\project\course.h
+	<bits/stdc++.h>
+
+1451619845 c:\users\muhammed maged\downloads\new folder\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451356508 c:\users\muhammed maged\downloads\new folder\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451702479 c:\users\muhammed maged\downloads\new folder\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451618156 source:c:\users\muhammed maged\downloads\new folder\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+
+1451600890 c:\users\muhammed maged\downloads\new folder\project\doctor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Teacher.h"
+
+1451535052 c:\users\muhammed maged\downloads\new folder\project\teacher.h
+	<bits/stdc++.h>
+	"System.h"
+
+1451705492 source:c:\users\muhammed maged\downloads\new folder\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"Teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451599834 c:\users\muhammed maged\downloads\new folder\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451612954 source:c:\users\muhammed maged\downloads\new folder\project\person.cpp
+	"Person.h"
+
+1451619845 source:c:\users\muhammed maged\downloads\new folder\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451620201 source:c:\users\muhammed maged\downloads\new folder\project\summer.cpp
+	"Summer.h"
+	<bits/stdc++.h>
+
+1451614710 c:\users\muhammed maged\downloads\new folder\project\summer.h
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+	"TA.h"
+	<bits/stdc++.h>
+
+1451705788 source:c:\users\muhammed maged\downloads\new folder\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451636197 source:c:\users\muhammed maged\downloads\new folder\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+	"Student.h"
+
+1451583972 source:c:\users\ghostt\desktop\new folder\project\course.cpp
+	"Course.h"
+	"Student.h"
+	<string>
+
+1451579902 c:\users\ghostt\desktop\new folder\project\course.h
+	<bits/stdc++.h>
+
+1451583845 c:\users\ghostt\desktop\new folder\project\student.h
+	<bits/stdc++.h>
+	"course.h"
+	"Person.h"
+
+1451320508 c:\users\ghostt\desktop\new folder\project\person.h
+	<iostream>
+	<string>
+	"System.h"
+
+1451666479 c:\users\ghostt\desktop\new folder\project\system.h
+	<iostream>
+	<bits/stdc++.h>
+	"Course.h"
+
+1451582156 source:c:\users\ghostt\desktop\new folder\project\doctor.cpp
+	<bits/stdc++.h>
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+
+1451564890 c:\users\ghostt\desktop\new folder\project\doctor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Teacher.h"
+
+1451499052 c:\users\ghostt\desktop\new folder\project\teacher.h
+	<bits/stdc++.h>
+	"System.h"
+
+1451669492 source:c:\users\ghostt\desktop\new folder\project\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"Student.h"
+	"Teacher.h"
+	"Doctor.h"
+	"TA.h"
+	"person.h"
+	"System.h"
+
+1451563834 c:\users\ghostt\desktop\new folder\project\ta.h
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Course.h"
+
+1451576954 source:c:\users\ghostt\desktop\new folder\project\person.cpp
+	"Person.h"
+
+1451583845 source:c:\users\ghostt\desktop\new folder\project\student.cpp
+	<bits/stdc++.h>
+	<string>
+	"Student.h"
+
+1451584201 source:c:\users\ghostt\desktop\new folder\project\summer.cpp
+	"Summer.h"
+	<bits/stdc++.h>
+
+1451578710 c:\users\ghostt\desktop\new folder\project\summer.h
+	"Doctor.h"
+	"Course.h"
+	"Student.h"
+	"TA.h"
+	<bits/stdc++.h>
+
+1451669788 source:c:\users\ghostt\desktop\new folder\project\system.cpp
+	"System.h"
+	<iostream>
+	<fstream>
+
+1451600197 source:c:\users\ghostt\desktop\new folder\project\ta.cpp
+	<bits/stdc++.h>
+	"TA.h"
+	"Student.h"
+
